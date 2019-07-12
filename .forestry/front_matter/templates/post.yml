@@ -39,4 +39,5 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/生活/科技爱好者周刊-第1期.md
 - _posts/for-test.md
